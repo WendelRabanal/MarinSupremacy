@@ -1,5 +1,5 @@
 # hello-world
-Hello World repository for Git tutorial
-This is an example repository for the Git tutoial on https://www.w3schools.com
+Hu Tao Genshin Impact Player.
+First Repository For Git.
 
-This repository is built step by step in the tutorial.
+Reference Point For Future.
